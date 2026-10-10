@@ -1,6 +1,7 @@
 // Solution for File Storage BPT
+// Updated comment for final verification
 // Final version
-#include <bits/stdc++.h>
+#include <bits/stdc++.h> // include all standard headers
 using namespace std;
 
 int main(){
@@ -71,6 +72,7 @@ int main(){
     }
     // Added comment for new commit
     // End of program
+// Final verification commit
 // Updated for final verification
     return 0;
 }
