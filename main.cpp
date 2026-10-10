@@ -1,6 +1,6 @@
-// Solution for File Storage BPT
-// Updated comment for final verification
-// Final version
+// Solution for File Storage BPT - final iteration
+// Updated comment for final verification - second pass
+// Final version - ready for final submission
 #include <bits/stdc++.h> // include all standard headers
 using namespace std;
 
